@@ -23,7 +23,7 @@ Prerequisites: Python 3.8+ and Git.
 1. Clone the repo
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/UrTechTips/Deepfake-Detection>
 cd "Deepfake Detection"
 ```
 
