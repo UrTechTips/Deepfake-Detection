@@ -106,6 +106,15 @@ Notes:
 - Reported numbers are from the project notebooks and accompanying paper; they were obtained using the FaceForensics++ FaceSwap videos with held-out validation and test splits (15% each as used in experiments).
 - See the notebooks in `src/` for training details, evaluation scripts, and plots (ROC, confusion matrix, loss curves).
 
+## Collaborators
+
+This project was developed collaboratively with:
+
+- [@Harsha8V](https://github.com/Harsha8V)
+- Sameer Zyad
+
+Contributions included model experimentation, preprocessing, evaluation, and project development.
+
 ## Where to get help
 - Open an issue in the repository with a reproducible example.
 - For third-party package issues, consult each project's docs (PyTorch, RetinaFace, OpenCV).
